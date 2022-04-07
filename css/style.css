@@ -1,0 +1,96 @@
+html,body
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#header
+{
+    background-image: linear-gradient(to bottom, rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url("../images/pic5.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    
+}
+
+
+
+.navbar-brand
+{
+    font-family: 'Lavishly Yours', cursive;
+    font-size: 35px;
+    color: whitesmoke;
+}
+.navbar-brand:hover
+{
+    color: #c29385;
+    transition: 1s;
+}
+
+
+.nav-link
+{
+    font-family: 'Nunito', sans-serif;
+    font-size: 20px;
+    color: whitesmoke;
+}
+
+.nav-link:focus
+{
+    color: #c29385;
+}
+
+.nav-link:hover
+{
+    color: #c29385;
+    transition: 1s;
+
+}
+
+
+
+.logo
+{
+    width: 10em;
+}
+
+.banner-text
+{
+    color: whitesmoke;
+    font-family: 'Nunito', sans-serif;
+    font-size: 45px;
+}
+
+.banner-par
+{
+    color: rgb(161, 159, 159);
+    font-family: 'Nunito', sans-serif;
+    font-size: 20px;
+    
+}
+
+#book-btn
+{
+    padding: 10px,10px,10px,10px;
+    background-color: none;
+    border-radius: 1px;
+    color: whitesmoke;
+    border: 1px solid #c29385;
+    font-family: 'Nunito', sans-serif;
+    box-shadow: 0px 0px 2.9px 0.4px;
+
+}
+
+#call-btn
+{
+    background-color: none;
+    border-radius: 1px;
+    color: whitesmoke;
+    border: 1px solid #c29385;
+    font-family: 'Nunito', sans-serif;
+    box-shadow: 0px 0px 2.9px 0.4px;
+
+
+
+}

@@ -32,7 +32,7 @@ html,body
 
 ::-webkit-scrollbar-track
 {
-    background: #c29385;
+    background: whitesmoke;
 }
 
 /* End of  Scroll Bar  */
@@ -229,3 +229,41 @@ html,body
 
 
 }
+
+
+
+
+/* Review Section */
+/* .review-head
+{
+    font-family: 'Montserrat', sans-serif;
+
+
+} */
+
+
+
+
+/* Footer */
+
+footer
+{
+    background-color: #c29385;
+}
+
+
+.footer-text1
+{
+    font-family: 'Lavishly Yours', cursive;
+
+
+}
+
+
+.footer-text2
+{
+    font-family: 'Nunito', sans-serif;
+
+
+}
+/* End of Footer */

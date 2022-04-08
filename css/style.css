@@ -3,7 +3,46 @@ html,body
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    scroll-behavior: smooth;
+    overflow-x: hidden;
 }
+
+
+
+
+
+
+
+/* Scroll Bar  */
+::-webkit-scrollbar
+{
+    width: 6px;
+}
+
+::-webkit-scrollbar-button
+{
+    color: #c29385;
+}
+
+::-webkit-scrollbar-thumb
+{
+    background: #c29385;
+    border-radius: 8px;
+}
+
+::-webkit-scrollbar-track
+{
+    background: #c29385;
+}
+
+/* End of  Scroll Bar  */
+
+
+
+
+
+
+
 
 #header
 {
@@ -15,6 +54,7 @@ html,body
 }
 
 
+/* NavBar */
 
 .navbar-brand
 {
@@ -48,7 +88,13 @@ html,body
 
 }
 
+/* End of NavBar */
 
+
+
+
+
+/* Hero Section  */
 
 .logo
 {
@@ -60,6 +106,15 @@ html,body
     color: whitesmoke;
     font-family: 'Nunito', sans-serif;
     font-size: 45px;
+}
+
+.banner-text:hover
+{
+
+    color: #c29385;
+    transition: 1s;
+
+    
 }
 
 .banner-par
@@ -82,6 +137,14 @@ html,body
 
 }
 
+#book-btn:hover
+{
+    box-shadow: 0px 0px 2.9px 2px #c29385;
+    transition: 2s;
+
+    
+}
+
 #call-btn
 {
     background-color: none;
@@ -94,3 +157,44 @@ html,body
 
 
 }
+
+#call-btn:hover
+{
+    box-shadow: 0px 0px 2.9px 2px #c29385;
+    transition: 2s;
+
+    
+}
+
+
+/* End of Hero Section  */
+
+
+
+/* Section 2  */
+
+#col1
+{
+    background-color: #c29385;
+}
+
+.about-text
+{
+    font-family: 'Montserrat', sans-serif;
+    
+}
+.about-par
+{
+    font-family: 'Nunito', sans-serif;
+
+}
+
+.about-par2
+{
+    font-family: 'Montserrat', sans-serif;
+
+
+}
+
+
+

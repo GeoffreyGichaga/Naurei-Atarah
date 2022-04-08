@@ -340,3 +340,19 @@ footer
 
 }
 /* End of Footer */
+
+/* Credit section */
+.credits
+{
+    font-family: 'Nunito', sans-serif;
+    font-size: 15px;
+    color: #c29385;
+    text-decoration: none;
+
+
+    
+}
+.credits:hover
+{
+    color: whitesmoke;
+}

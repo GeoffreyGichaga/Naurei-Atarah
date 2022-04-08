@@ -230,6 +230,44 @@ html,body
 
 }
 
+/* Newsletter */
+.news-title
+{
+    font-family: 'Montserrat', sans-serif;
+    color: whitesmoke;
+
+
+}
+#news
+{
+    font-family: 'Montserrat', sans-serif;
+    padding: 5px 14px 5px 2px;
+    background-color: whitesmoke;
+    border: none;
+    border-radius: 2px;
+
+    
+}
+
+#news:focus
+{
+    outline: none;
+}
+
+
+#submit
+{
+    background-color: transparent;
+    border: 2px solid #c29385;
+    border-radius: 2px;
+    font-family: 'Nunito', sans-serif;
+    color: whitesmoke;
+    padding: 5px 10px 5px 10px;
+
+}
+/* End of  Newsletter */
+
+
 
 
 

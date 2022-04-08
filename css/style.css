@@ -141,6 +141,7 @@ html,body
 {
     box-shadow: 0px 0px 2.9px 2px #c29385;
     transition: 2s;
+    color: #c29385;
 
     
 }
@@ -158,10 +159,25 @@ html,body
 
 }
 
+.call
+{
+    text-decoration: none;
+    color: whitesmoke;
+
+
+}
+.call:hover
+{
+    color: #c29385;
+
+
+}
+
 #call-btn:hover
 {
     box-shadow: 0px 0px 2.9px 2px #c29385;
     transition: 2s;
+    color: #c29385;
 
     
 }
@@ -229,6 +245,22 @@ html,body
 
 
 }
+
+
+/* Blog Section  */
+.blog-title
+{
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+
+
+
+
+
+
+
 
 /* Newsletter */
 .news-title

@@ -248,13 +248,14 @@ html,body
 
 footer
 {
-    background-color: #c29385;
+    background-color: black;
 }
 
 
 .footer-text1
 {
     font-family: 'Lavishly Yours', cursive;
+    color: whitesmoke;
 
 
 }
@@ -263,7 +264,79 @@ footer
 .footer-text2
 {
     font-family: 'Nunito', sans-serif;
+    color: whitesmoke;
 
+
+
+}
+
+.socials
+{
+    list-style: none;
+
+}
+
+.social-imgs
+{
+    width: 25px;
+}
+
+
+
+
+
+.quick-text
+{
+    font-family: 'Montserrat', sans-serif;
+    color: whitesmoke;
+
+    
+}
+
+.quick-link
+{
+    font-size: 19px;
+    color: whitesmoke;
+    text-decoration: none;
+    font-family: 'Nunito', sans-serif;
+
+
+}
+.quick-link:hover
+{
+    color: #c29385;
+}
+
+
+.cont-imgs
+{
+    width: 25px;
+    height: 25px;
+}
+
+
+.cont-imgs2
+{
+    width: 25px;
+    height: 25px;
+
+}
+
+
+.cont-details
+{
+    font-family: 'Nunito', sans-serif;
+    font-size: 17px;
+    color: whitesmoke;
+    text-decoration: none;
+
+    
+
+}
+
+.cont-details:hover
+{
+    color: #c29385;
 
 }
 /* End of Footer */

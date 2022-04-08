@@ -198,3 +198,34 @@ html,body
 
 
 
+/* Services */
+
+.service-head
+{
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+.card-img-top
+{
+    filter: brightness(30%);
+}
+
+.card-img-overlay
+{
+    color: whitesmoke;
+}
+
+.card-title
+{
+    font-family: 'Montserrat', sans-serif;
+
+    
+}
+
+.card-text
+{
+    font-family: 'Nunito', sans-serif;
+
+
+}
